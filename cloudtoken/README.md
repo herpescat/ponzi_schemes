@@ -1,3 +1,3 @@
 # Cloud Token
 
-Here is a summary of our team's research on Cloud Token.
+Here's a summary of our team's Cloud Token research.
