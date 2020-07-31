@@ -5,7 +5,7 @@ Just a public repo of all of the information our team has gathered regarding the
 <h3>List of Chinese-centric Ponzi Schemes</h3>
 <ul>
   <li><a href="../../tree/master/plustoken">Plus Token</a>
-  <li>Cloud Token
+  <li><a href="../../tree/master/cloudtoken">Cloud Token</a>
   <li>WoToken
   <li>S Block
   <li>EXXA Wallet
