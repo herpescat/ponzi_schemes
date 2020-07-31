@@ -10,7 +10,7 @@ Just a public repo of all of the information our team has gathered regarding the
   <li>S Block
   <li>EXXA Wallet
   <li>Torque Trading
-  <li>Trade Store
+  <li>TokenStore
   <li>MooToken
 </ul>
 
